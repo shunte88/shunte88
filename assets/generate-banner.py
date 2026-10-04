@@ -47,12 +47,12 @@ for frame in range(48):
     frames.append(artwork)
 
 frames[0].save(OUT / "profile-banner.png")
-# Three plays, then a still frame: a little movement without endless distraction.
+# GIF loop=0 repeats continuously; GitHub controls autoplay per viewer.
 frames[0].save(
     OUT / "profile-banner.gif",
     save_all=True,
     append_images=frames[1:],
     duration=100,
-    loop=2,
+    loop=0,
     optimize=True,
 )
