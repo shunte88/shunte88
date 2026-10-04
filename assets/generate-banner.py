@@ -25,7 +25,7 @@ for x in range(820, WIDTH, 28):
         draw.ellipse((x, y, x + 2, y + 2), fill="#233047")
 draw.rectangle((0, 0, 7, HEIGHT), fill=MINT)
 draw.text((56, 36), "SHUNTE88 / DATA · AUDIO · CODE", font=font(17, mono=True), fill=MINT)
-draw.text((52, 91), "Stue Hunter (shunte88)", font=font(46, bold=True), fill=WHITE)
+draw.text((52, 91), "shunte88 (Stue Hunter)", font=font(46, bold=True), fill=WHITE)
 draw.text((56, 177), "Making data useful.", font=font(30), fill=WHITE)
 draw.text((56, 219), "Making audio visible.", font=font(30), fill=WHITE)
 draw.text((56, 303), "RUST   /   GO   /   PYTHON   /   C", font=font(17, mono=True), fill=MUTED)
