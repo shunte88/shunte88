@@ -4,9 +4,9 @@
 
 I build where **data, audio, and hardware meet** - from event-driven visualization servers to music displays powered by Rust and Go. A long-running curiosity for data, a keen ear for audio, and an eye for the details that make software useful.
 
-**Hands-on:** `Rust` · `Go` · `Python` · `C` · `Linux` · `Raspberry Pi`
+**Hands-on:** `Rust` · `Go` · `Python` · `C` · `Linux` · `Embedded Systems` · `SBC` · `Raspberry Pi`
 
-**Exploring:** AI & machine learning
+**Exploring:** Data, more data, and all things data, AI, an ML
 
 ### A few things I've built
 
