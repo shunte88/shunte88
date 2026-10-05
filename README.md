@@ -1,5 +1,6 @@
 ![shunte88 (Stue Hunter) - Making data useful. Making audio visible.](assets/profile-banner.gif)
 
+
 ## Hi, I'm shunte88.
 
 I build where **data, audio, and hardware meet** - from event-driven visualization servers to music displays powered by Rust and Go. A long-running curiosity for data, a keen ear for audio, and an eye for the details that make software useful.
