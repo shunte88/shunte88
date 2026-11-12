@@ -16,6 +16,7 @@ I build where **data, audio, and hardware meet** - from event-driven visualizati
 | **[vcw](https://github.com/shunte88/vcw)** | Rust and integrated audio recording - a vinyl ripping workflow with its own recording head. |
 | **[vripr](https://github.com/shunte88/vripr)** | Rust and Audacity - vinyl digitization with track detection, Discogs metadata, and tagged export. |
 | **[bcfunl](https://github.com/shunte88/bcfunl)** | Bandcamp collection maintenance. Rust and AI Agent for metadata assignment. |
+| **[menumpv](https://github.com/shunte88/menumpv)** | Adds an mpv specific context menu for video or music playback on Ubuntu. Supports all file browser flavors. |
 | **[dbxup](https://github.com/shunte88/dbxup)** | Rust and Dropbox - a service for automating Dropbox workflows. |
 | **[ndnblk](https://github.com/shunte88/ndnblk)** | Rust, Tor, and aria2c - bulk Nitroflare folder downloads with parallel transfers. |
 | **[bauhaus](https://github.com/shunte88/bauhaus)** | Rust and generative graphics - Bauhaus patterns with an extensible tile library, varied sizes, and color palettes. |
